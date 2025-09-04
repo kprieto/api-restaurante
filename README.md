@@ -14,6 +14,7 @@ Este proyecto es una **API REST** para la gestión de un restaurante. Permite ad
 ---
 
 ## 📂 Estructura del proyecto
+```
 📦 restaurante-api
 ┣ 📂 models
 ┃ ┣ 📜 clientes.js
@@ -26,7 +27,7 @@ Este proyecto es una **API REST** para la gestión de un restaurante. Permite ad
 ┣ 📜 index.js
 ┣ 📜 database.js
 ┗ 📜 README.md
-
+```
 ## 📌 Instalación y configuración
 
 1. Clona este repositorio:
