@@ -1,8 +1,7 @@
 # 🍽️ Restaurante API
 
-Este proyecto es una **API REST** para la gestión de un restaurante. Permite administrar **platos, clientes y pedidos.**
-utilizando **MongoDB**, **Express** y **Mongoose**. 
--CRUD de clientes, platos y pedidos.
+Este proyecto es una **API REST** para la gestión de un restaurante. Permite administrar **platos, clientes y pedidos.** utilizando **MongoDB**, **Express** y **Mongoose**. 
+- CRUD de clientes, platos y pedidos.
 
 ---
 
