@@ -10,6 +10,9 @@ Este proyecto es una **API REST** para la gestión de un restaurante. Permite ad
 - **MongoDB Compass** (base de datos NoSQL)
 - **Mongoose** (modelado de datos)
 - **JavaScript (ES Modules)**
+- **Postman** (para pruebas)
+- **dotenv** (para variables de entorno)
+- **nodemon** (para desarrollo)
 
 ---
 
